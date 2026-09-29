@@ -1,0 +1,13 @@
+# Core Python package dependencies
+
+# No external packages are required.
+# The Student Academic Risk System uses only Python standard library features.
+
+# Python version requirement:
+# Python 3.8 or higher
+
+# Standard library / built-in Python features used:
+# input(), print(), round()
+# lists and dictionaries
+# functions, loops, and conditional statements
+# modules and imports
